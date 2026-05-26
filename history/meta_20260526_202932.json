@@ -1,0 +1,17 @@
+{
+  "time": "20260526_202932",
+  "label": "2026-05-26 20:29",
+  "params": {
+    "pool_type": "沪深300",
+    "entry_period": 20,
+    "exit_period": 10,
+    "atr_period": 14,
+    "risk_pct": 0.01,
+    "equity": 1000000
+  },
+  "csv_file": "history\\result_20260526_202932.csv",
+  "total_stocks": 245,
+  "breakout_count": 12,
+  "analysis_date": "2026-05-26",
+  "latest_data_date": "2026-05-26"
+}
