@@ -21,6 +21,10 @@ pip install streamlit akshare pandas numpy plotly curl_cffi
 
 # 启动应用
 streamlit run app.py
+（这个不行就用下面这个）
+
+#或者使用在此目录命令窗口输入：
+python -m streamlit run app.py
 ```
 
 ## 依赖
